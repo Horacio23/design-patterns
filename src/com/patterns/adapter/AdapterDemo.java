@@ -1,3 +1,5 @@
+package com.patterns.adapter;
+
 import java.util.List;
 
 /**
